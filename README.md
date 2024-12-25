@@ -2,6 +2,10 @@
 
 This repository demonstrates the use of Spark for optimizing data joins and aggregating large datasets. The project focuses on the Halo dataset and aims to optimize performance by applying various Spark techniques, including broadcasting, bucketing, and sorting.
 
+The skills applied are:
+- Spark (PySpark)
+- Apache Iceberg
+
 ## Problem / Opportunity
 The task involves optimizing the performance of Spark jobs on a large dataset consisting of several tables related to Halo match data. Key objectives include:
 

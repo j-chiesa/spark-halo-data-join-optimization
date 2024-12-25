@@ -1,4 +1,4 @@
-# Spark Data Engineering Project: Halo Data Optimization
+# Spark Project: Halo Data Optimization
 
 This repository demonstrates the use of Spark for optimizing data joins and aggregating large datasets. The project focuses on the Halo dataset and aims to optimize performance by applying various Spark techniques, including broadcasting, bucketing, and sorting.
 

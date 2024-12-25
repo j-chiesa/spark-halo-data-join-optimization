@@ -80,6 +80,6 @@ The solution was developed by applying a combination of Spark best practices, in
    - 
 ---
 
-The implementation files are saved as `.py` files for submission. Below are the key files for this project:
+### Files in This Repository
 
 - **spark_halo_data_join_optimization.ipynb**: This is the main solution notebook, containing the Spark code for data loading, processing, optimization and queries.
